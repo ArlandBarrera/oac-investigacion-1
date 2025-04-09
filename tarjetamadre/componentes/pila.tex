@@ -1,6 +1,6 @@
 La pila presente en la placa madre de una computadora, comúnmente del tipo CR2032 \cite{profesionalpila}, desempeña un papel crucial en el mantenimiento de la configuración del sistema. Esencialmente, esta pila suministra energía constante al chip CMOS (Complementary Metal-Oxide-Semiconductor), lo que permite que se conserven ajustes vitales incluso cuando la computadora está apagada.
 
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics[scale=0.9]{imagenes/pila-cr2032.png}
   \caption{Pila CR2032}
@@ -12,7 +12,7 @@ La pila presente en la placa madre de una computadora, comúnmente del tipo CR20
 
 En las PCs más antiguas, la pila CMOS alimentaba directamente la CMOS RAM, una memoria de baja potencia que almacenaba la configuración del BIOS. Esto incluía ajustes de hardware, orden de arranque y la hora del sistema. Sin la pila, toda esta información se perdía al apagar la computadora \cite{profesionalpila}.
 
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics[scale=0.9]{imagenes/pila-cmos.png}
   \caption{Pila CMOS}
@@ -24,7 +24,7 @@ En estos sistemas, la pila era indispensable para el funcionamiento básico del 
 
 Las PCs modernas han evolucionado. Ahora, la configuración del BIOS/UEFI (Unified Extensible Firmware Interface) se almacena generalmente en memoria flash no volátil. Esto significa que la configuración se conserva incluso sin energía de la pila.
 
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics[scale=0.9]{imagenes/uefi-bios.png}
   \caption{Configuración BIOS/UEFI}
@@ -32,7 +32,7 @@ Las PCs modernas han evolucionado. Ahora, la configuración del BIOS/UEFI (Unifi
 
 Sin embargo, la pila CR2032 aún cumple una función esencial: alimentar el reloj de tiempo real (RTC). El RTC es un circuito independiente que mantiene la hora del sistema, independientemente de si la computadora está encendida o apagada.
 
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics{imagenes/reloj.png}
   \caption{Reloj de tiempo real (RTC)}

@@ -248,12 +248,12 @@ INPUT ./imagenes/asusb550.png
 INPUT ./imagenes/asusb550.png
 INPUT ./imagenes/asusb550.png
 INPUT ./imagenes/asusb550.png
-INPUT ./imagenes/asusz890.png
-INPUT ./imagenes/asusz890.png
-INPUT ./imagenes/asusz890.png
-INPUT ./imagenes/asusz890.png
-INPUT ./imagenes/asusz890.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmro12.tfm
+INPUT ./imagenes/asusz890.png
+INPUT ./imagenes/asusz890.png
+INPUT ./imagenes/asusz890.png
+INPUT ./imagenes/asusz890.png
+INPUT ./imagenes/asusz890.png
 INPUT ./imagenes/z890tomahawk.png
 INPUT ./imagenes/z890tomahawk.png
 INPUT ./imagenes/z890tomahawk.png

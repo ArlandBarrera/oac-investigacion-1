@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  8 APR 2025 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  9 APR 2025 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,38 +432,41 @@ File: imagenes/tomahawk.png Graphic file (type png)
 <use imagenes/tomahawk.png>
 Package pdftex.def Info: imagenes/tomahawk.png  used on input line 9.
 (pdftex.def)             Requested size: 128.48752pt x 156.69455pt.
-<imagenes/strix.png, id=173, 908.39375pt x 924.45375pt>
-File: imagenes/strix.png Graphic file (type png)
-<use imagenes/strix.png>
-Package pdftex.def Info: imagenes/strix.png  used on input line 19.
-(pdftex.def)             Requested size: 90.8447pt x 92.45079pt.
+
+Underfull \vbox (badness 3219) has occurred while \output is active []
+
 
 
 [5
 
 ]
-<imagenes/asusb550.png, id=185, 475.7775pt x 475.7775pt>
+<imagenes/strix.png, id=182, 908.39375pt x 924.45375pt>
+File: imagenes/strix.png Graphic file (type png)
+<use imagenes/strix.png>
+Package pdftex.def Info: imagenes/strix.png  used on input line 19.
+(pdftex.def)             Requested size: 90.8447pt x 92.45079pt.
+<imagenes/asusb550.png, id=184, 475.7775pt x 475.7775pt>
 File: imagenes/asusb550.png Graphic file (type png)
 <use imagenes/asusb550.png>
 Package pdftex.def Info: imagenes/asusb550.png  used on input line 29.
 (pdftex.def)             Requested size: 95.15381pt x 95.15381pt.
-<imagenes/asusz890.png, id=187, 1204.5pt x 1204.5pt>
+
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+
+
+[6 <./imagenes/tomahawk.png> <./imagenes/strix.png> <./imagenes/asusb550.png>]
+<imagenes/asusz890.png, id=193, 1204.5pt x 1204.5pt>
 File: imagenes/asusz890.png Graphic file (type png)
 <use imagenes/asusz890.png>
 Package pdftex.def Info: imagenes/asusz890.png  used on input line 39.
 (pdftex.def)             Requested size: 240.89574pt x 240.89574pt.
-
-
-[6 <./imagenes/tomahawk.png> <./imagenes/strix.png> <./imagenes/asusb550.png>]
-<imagenes/z890tomahawk.png, id=196, 1927.2pt x 1084.05pt>
+<imagenes/z890tomahawk.png, id=195, 1927.2pt x 1084.05pt>
 File: imagenes/z890tomahawk.png Graphic file (type png)
 <use imagenes/z890tomahawk.png>
 Package pdftex.def Info: imagenes/z890tomahawk.png  used on input line 49.
 (pdftex.def)             Requested size: 192.7313pt x 108.41135pt.
 ) (./tarjetamadre/componentes.tex (./tarjetamadre/componentes/tarjetas.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [7 <./imagenes/asusz890.png> <./imagenes/z890tomahawk.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 10.
@@ -481,6 +484,9 @@ File: imagenes/dispositivos-refrigerante.png Graphic file (type png)
 Package pdftex.def Info: imagenes/dispositivos-refrigerante.png  used on input line 27.
 (pdftex.def)             Requested size: 276.43019pt x 185.19014pt.
 
+Underfull \vbox (badness 3547) has occurred while \output is active []
+
+
 
 [8{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./imagenes/componentes-tarjeta.png>]
 <imagenes/tarjeta-sonido.png, id=218, 545.03625pt x 361.35pt>
@@ -489,21 +495,25 @@ File: imagenes/tarjeta-sonido.png Graphic file (type png)
 Package pdftex.def Info: imagenes/tarjeta-sonido.png  used on input line 49.
 (pdftex.def)             Requested size: 436.0296pt x 289.0804pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [9 <./imagenes/dispositivos-refrigerante.png>]
-<imagenes/tarjeta-red.png, id=228, 358.33875pt x 265.99374pt>
+<imagenes/tarjeta-red.png, id=227, 358.33875pt x 265.99374pt>
 File: imagenes/tarjeta-red.png Graphic file (type png)
 <use imagenes/tarjeta-red.png>
 Package pdftex.def Info: imagenes/tarjeta-red.png  used on input line 78.
 (pdftex.def)             Requested size: 286.67139pt x 212.79527pt.
-<imagenes/tarjeta-controladora.png, id=230, 306.14375pt x 187.70125pt>
+
+
+[10 <./imagenes/tarjeta-sonido.png>]
+<imagenes/tarjeta-controladora.png, id=235, 306.14375pt x 187.70125pt>
 File: imagenes/tarjeta-controladora.png Graphic file (type png)
 <use imagenes/tarjeta-controladora.png>
 Package pdftex.def Info: imagenes/tarjeta-controladora.png  used on input line 98.
 (pdftex.def)             Requested size: 275.52681pt x 168.92957pt.
 
-
-[10 <./imagenes/tarjeta-sonido.png>]
 
 [11 <./imagenes/tarjeta-red.png> <./imagenes/tarjeta-controladora.png>]
 <imagenes/tarjeta-expansion.png, id=245, 353.32pt x 217.81375pt>
@@ -525,21 +535,22 @@ File: imagenes/pila-cmos.png Graphic file (type png)
 <use imagenes/pila-cmos.png>
 Package pdftex.def Info: imagenes/pila-cmos.png  used on input line 17.
 (pdftex.def)             Requested size: 198.74065pt x 198.74065pt.
-<imagenes/uefi-bios.png, id=258, 304.13625pt x 171.64125pt>
+
+
+[13 <./imagenes/pila-cr2032.png> <./imagenes/pila-cmos.png>]
+<imagenes/uefi-bios.png, id=265, 304.13625pt x 171.64125pt>
 File: imagenes/uefi-bios.png Graphic file (type png)
 <use imagenes/uefi-bios.png>
 Package pdftex.def Info: imagenes/uefi-bios.png  used on input line 29.
 (pdftex.def)             Requested size: 273.72008pt x 154.47568pt.
-<imagenes/reloj.png, id=259, 209.78375pt x 157.58875pt>
+<imagenes/reloj.png, id=266, 209.78375pt x 157.58875pt>
 File: imagenes/reloj.png Graphic file (type png)
 <use imagenes/reloj.png>
 Package pdftex.def Info: imagenes/reloj.png  used on input line 37.
 (pdftex.def)             Requested size: 209.78322pt x 157.58835pt.
 
 
-[13 <./imagenes/pila-cr2032.png>]
-
-[14 <./imagenes/pila-cmos.png> <./imagenes/uefi-bios.png> <./imagenes/reloj.png>]))) (./conclusion.tex
+[14 <./imagenes/uefi-bios.png> <./imagenes/reloj.png>]))) (./conclusion.tex
 
 [15]
 CAPÍTULO 3.
@@ -663,18 +674,18 @@ LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 31F4299BEF671B64DEC19113FB9891ED;3593.
+(rerunfilecheck)             Checksum: 6888DE5D509595661DDD967F2856414C;3557.
  ) 
 Here is how much of TeX's memory you used:
- 10807 strings out of 473250
- 175326 string characters out of 5717905
+ 10808 strings out of 473250
+ 175336 string characters out of 5717905
  582948 words of memory out of 5000000
- 33726 multiletter control sequences out of 15000+600000
+ 33727 multiletter control sequences out of 15000+600000
  599932 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,7n,82p,1193b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (18 pages, 8484343 bytes).
+Output written on main.pdf (18 pages, 8484641 bytes).
 PDF statistics:
  382 PDF objects out of 1000 (max. 8388607)
  316 compressed objects within 4 object streams

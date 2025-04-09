@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1744153449.79626 "main.aux" "main.bbl" "main" 1744153457.0867 0
+["bibtex main"] 1744215033.84609 "main.aux" "main.bbl" "main" 1744215040.77652 0
   "./referencias.bib" 1744152855.5688 4997 03da1b81cecc9f3465098a4306cfc3d1 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "main.aux" 1744153456.32596 6389 0a716f27bc9442c2d0a8d23b08d69961 "pdflatex"
+  "main.aux" 1744215040.04074 6384 2948712a05af36111ab3772dc66d76e1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1744153450.07369 "main.tex" "main.pdf" "main" 1744153457.08715 0
+["pdflatex"] 1744215034.12934 "main.tex" "main.pdf" "main" 1744215040.77697 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -126,23 +126,23 @@
   "imagenes/utp.png" 1743872372 105799 a6425f78dfecd6b45f65e971c32f31b9 ""
   "imagenes/z890tomahawk.png" 1744151740.73697 1322173 38d728203cecb830b882d99c36f13990 ""
   "introduccion.tex" 1744153083.72016 871 df157f4c05b43838014d48bba8957b46 ""
-  "main.aux" 1744153456.32596 6389 0a716f27bc9442c2d0a8d23b08d69961 "pdflatex"
-  "main.bbl" 1744153450.05976 3979 6ed763fb443304516e912753dc242a67 "bibtex main"
-  "main.lof" 1744153456.32896 1609 d1e0c42b1b815d3213b1412b4b9666e5 "pdflatex"
-  "main.out" 1744153456.32896 3593 31f4299bef671b64dec19113fb9891ed "pdflatex"
+  "main.aux" 1744215040.04074 6384 2948712a05af36111ab3772dc66d76e1 "pdflatex"
+  "main.bbl" 1744215034.11576 3979 6ed763fb443304516e912753dc242a67 "bibtex main"
+  "main.lof" 1744215040.04374 1609 672a723ddba388a5f3ce6c0e650060c0 "pdflatex"
+  "main.out" 1744215040.04274 3557 6888de5d509595661ddd967f2856414c "pdflatex"
   "main.tex" 1744116388.45863 773 ad727d11031f4e6a4560d94e20a7b501 ""
-  "main.toc" 1744153456.32896 1900 b5b7a6cee7bc53072b33ebfc41ec1f65 "pdflatex"
+  "main.toc" 1744215040.04374 1895 214597de7ab3bcc09606c725974487bb "pdflatex"
   "nuevos-comandos.tex" 1743974288.78974 1553 9571a50dd7747634b901bab14fa3a2c5 ""
   "paquetes.tex" 1744144304.05339 1728 d8557dab54f36a8064e400454af59657 ""
   "portada.tex" 1743890608.3695 1375 4e457166546238cfc32682a07fa755a2 ""
   "renombrar-comandos.tex" 1743872372 282 c14f38761f1cf6c9aec177fd7a39c2cd ""
   "strings.tex" 1743890451.75171 2010 dcc7cec0cd4113841afb8c7b101ad8f0 ""
-  "tarjetamadre/componentes.tex" 1744132922.30925 154 275731bd40aed96f29e91b0488717d5b ""
-  "tarjetamadre/componentes/pila.tex" 1744144060.38746 3284 3e252a5efa68b4a4d7c19ef17303b12a ""
-  "tarjetamadre/componentes/tarjetas.tex" 1744133768.02057 5825 706a461ad8134a060728ce4e6952124b ""
+  "tarjetamadre/componentes.tex" 1744215026.64814 148 582c20f42bb186ea097c6820a1f8fc63 ""
+  "tarjetamadre/componentes/pila.tex" 1744215000.46487 3296 5c411dcc1f4206dca94dd64404ebf328 ""
+  "tarjetamadre/componentes/tarjetas.tex" 1744214897.17222 5843 dd91a417dee4599d6889567c76b3dd93 ""
   "tarjetamadre/definicion.tex" 1744116776.25176 583 5f95bbbb06240d93bdbda7ddec485a74 ""
   "tarjetamadre/funciones.tex" 1744117585.17292 672 89c3ed52c89fe296c996f19a94006fdc ""
-  "tarjetamadre/modelos.tex" 1744152407.5158 2864 cc290b8b0f2bb5bbc472b59c07f75607 ""
+  "tarjetamadre/modelos.tex" 1744214679.77094 2879 59628dedb97fed65f7aab7ff7109854f ""
   "tarjetamadre/ref-tarjetamadre.aux" 0 -1 0 ""
   "tarjetamadre/ref-tarjetamadre.tex" 1743974337.29347 247 78b7c282a9723f7d5bcb815e6a1c2d11 ""
   (generated)
